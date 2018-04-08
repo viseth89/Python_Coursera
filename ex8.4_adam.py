@@ -1,4 +1,4 @@
-with open('romeoandjuliet.txt') as file:
+with open('romeo.txt') as file:
 	lines = file.readlines()
 
 words = []
